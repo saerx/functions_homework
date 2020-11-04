@@ -37,7 +37,7 @@ def volume_of_cube(num_1):
 
 def reverse_string(string_1):
     return "".join(reversed(string_1))
-    #also read that return string_1[::-1] would be possible and if faster
+    #also read that return string_1[::-1] would be possible and faster
     # but it seems less readable and I understand it less
 
 def fahrenheit_to_celsius(fahr):
